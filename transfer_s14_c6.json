@@ -1,0 +1,292 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   609,
+   5827
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.03885726088267825,
+  "actions": 10000,
+  "game_overs": 99,
+  "states_per_level": [
+   111,
+   863,
+   365
+  ],
+  "raw_states_per_level": [
+   467,
+   4841,
+   3174
+  ],
+  "level_end_at": [
+   609,
+   6436
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 23.5
+ },
+ {
+  "game": "dc22-fdcac232",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   1055,
+   7029
+  ],
+  "baselines": [
+   59,
+   102,
+   67,
+   98,
+   324,
+   578
+  ],
+  "score": 0.016898424340623386,
+  "actions": 10000,
+  "game_overs": 103,
+  "states_per_level": [
+   140,
+   754,
+   260
+  ],
+  "raw_states_per_level": [
+   817,
+   4446,
+   257
+  ],
+  "level_end_at": [
+   1055,
+   8084
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 1,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 54.6
+ },
+ {
+  "game": "lf52-271a04aa",
+  "win_levels": 10,
+  "levels": 2,
+  "level_actions": [
+   56,
+   5392
+  ],
+  "baselines": [
+   32,
+   81,
+   60,
+   71,
+   205,
+   148,
+   244,
+   109,
+   164,
+   225
+  ],
+  "score": 0.5945126337219234,
+  "actions": 10000,
+  "game_overs": 2,
+  "states_per_level": [
+   19,
+   149,
+   384
+  ],
+  "raw_states_per_level": [
+   56,
+   468,
+   1289
+  ],
+  "level_end_at": [
+   56,
+   5448
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 95.8
+ },
+ {
+  "game": "lp85-305b61c3",
+  "win_levels": 8,
+  "levels": 3,
+  "level_actions": [
+   114,
+   818,
+   435
+  ],
+  "baselines": [
+   17,
+   38,
+   31,
+   16,
+   41,
+   60,
+   26,
+   159
+  ],
+  "score": 0.1160820356179349,
+  "actions": 10000,
+  "game_overs": 77,
+  "states_per_level": [
+   48,
+   671,
+   413,
+   2636
+  ],
+  "raw_states_per_level": [
+   48,
+   671,
+   413,
+   2636
+  ],
+  "level_end_at": [
+   114,
+   932,
+   1367
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 0,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 64.0
+ },
+ {
+  "game": "tu93-0768757b",
+  "win_levels": 9,
+  "levels": 2,
+  "level_actions": [
+   200,
+   37
+  ],
+  "baselines": [
+   19,
+   16,
+   34,
+   42,
+   123,
+   80,
+   14,
+   23,
+   111
+  ],
+  "score": 0.8511569271974679,
+  "actions": 10000,
+  "game_overs": 345,
+  "states_per_level": [
+   58,
+   15,
+   1859
+  ],
+  "raw_states_per_level": [
+   189,
+   36,
+   1813
+  ],
+  "level_end_at": [
+   200,
+   237
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 1,
+  "fallbacks": 10,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 25.8
+ },
+ {
+  "game": "vc33-5430563c",
+  "win_levels": 7,
+  "levels": 2,
+  "level_actions": [
+   69,
+   135
+  ],
+  "baselines": [
+   7,
+   18,
+   44,
+   61,
+   131,
+   34,
+   152
+  ],
+  "score": 0.16374111081105408,
+  "actions": 10000,
+  "game_overs": 133,
+  "states_per_level": [
+   16,
+   28,
+   1164
+  ],
+  "raw_states_per_level": [
+   68,
+   131,
+   8211
+  ],
+  "level_end_at": [
+   69,
+   204
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 35.2
+ }
+]
