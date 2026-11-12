@@ -1,0 +1,100 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   444
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.07307017442152577,
+  "actions": 1500,
+  "game_overs": 14,
+  "states_per_level": [
+   311,
+   739
+  ],
+  "fallbacks": 0,
+  "secs": 2.6
+ },
+ {
+  "game": "ft09-0d8bbf25",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   246
+  ],
+  "baselines": [
+   43,
+   12,
+   23,
+   28,
+   65,
+   37
+  ],
+  "score": 0.14549477666669816,
+  "actions": 1500,
+  "game_overs": 18,
+  "states_per_level": [
+   24,
+   553
+  ],
+  "fallbacks": 0,
+  "secs": 1.8
+ },
+ {
+  "game": "ls20-9607627b",
+  "win_levels": 7,
+  "levels": 0,
+  "level_actions": [],
+  "baselines": [
+   22,
+   123,
+   73,
+   84,
+   96,
+   192,
+   186
+  ],
+  "score": 0.0,
+  "actions": 1500,
+  "game_overs": 11,
+  "states_per_level": [
+   1236
+  ],
+  "fallbacks": 0,
+  "secs": 1.9
+ },
+ {
+  "game": "r11l-495a7899",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   101
+  ],
+  "baselines": [
+   22,
+   33,
+   51,
+   26,
+   52,
+   49
+  ],
+  "score": 0.22593489900616653,
+  "actions": 1500,
+  "game_overs": 45,
+  "states_per_level": [
+   100,
+   1289
+  ],
+  "fallbacks": 0,
+  "secs": 6.8
+ }
+]
