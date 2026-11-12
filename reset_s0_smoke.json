@@ -1,0 +1,190 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   351
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.11692081967485574,
+  "actions": 3000,
+  "game_overs": 29,
+  "states_per_level": [
+   67,
+   371
+  ],
+  "raw_states_per_level": [
+   258,
+   2177
+  ],
+  "level_end_at": [
+   351
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 2,
+  "fallbacks": 0,
+  "secs": 2.9
+ },
+ {
+  "game": "ls20-9607627b",
+  "win_levels": 7,
+  "levels": 1,
+  "level_actions": [
+   373
+  ],
+  "baselines": [
+   22,
+   123,
+   73,
+   84,
+   96,
+   192,
+   186
+  ],
+  "score": 0.012424235267783341,
+  "actions": 3000,
+  "game_overs": 39,
+  "states_per_level": [
+   98,
+   87
+  ],
+  "raw_states_per_level": [
+   352,
+   915
+  ],
+  "level_end_at": [
+   373
+  ],
+  "mask_rows": [
+   61,
+   62
+  ],
+  "mask_cols": [],
+  "mask_events": 2,
+  "fallbacks": 1743,
+  "secs": 4.3
+ },
+ {
+  "game": "r11l-495a7899",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   57
+  ],
+  "baselines": [
+   22,
+   33,
+   51,
+   26,
+   52,
+   49
+  ],
+  "score": 0.7093757786278562,
+  "actions": 3000,
+  "game_overs": 52,
+  "states_per_level": [
+   32,
+   1077
+  ],
+  "raw_states_per_level": [
+   57,
+   2835
+  ],
+  "level_end_at": [
+   57
+  ],
+  "mask_rows": [],
+  "mask_cols": [
+   0
+  ],
+  "mask_events": 2,
+  "fallbacks": 0,
+  "secs": 6.7
+ },
+ {
+  "game": "tn36-ef4dde99",
+  "win_levels": 7,
+  "levels": 0,
+  "level_actions": [],
+  "baselines": [
+   32,
+   72,
+   26,
+   40,
+   30,
+   55,
+   62
+  ],
+  "score": 0.0,
+  "actions": 3000,
+  "game_overs": 49,
+  "states_per_level": [
+   35
+  ],
+  "raw_states_per_level": [
+   2262
+  ],
+  "level_end_at": [],
+  "mask_rows": [
+   1,
+   42
+  ],
+  "mask_cols": [],
+  "mask_events": 2,
+  "fallbacks": 1604,
+  "secs": 2.4
+ },
+ {
+  "game": "vc33-5430563c",
+  "win_levels": 7,
+  "levels": 2,
+  "level_actions": [
+   29,
+   195
+  ],
+  "baselines": [
+   7,
+   18,
+   44,
+   61,
+   131,
+   34,
+   152
+  ],
+  "score": 0.2689478270745993,
+  "actions": 3000,
+  "game_overs": 40,
+  "states_per_level": [
+   10,
+   37,
+   549
+  ],
+  "raw_states_per_level": [
+   29,
+   174,
+   2468
+  ],
+  "level_end_at": [
+   29,
+   224
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 3,
+  "fallbacks": 0,
+  "secs": 5.2
+ }
+]

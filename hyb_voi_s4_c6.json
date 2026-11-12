@@ -1,0 +1,312 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   293
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.16779184270943054,
+  "actions": 10000,
+  "game_overs": 99,
+  "states_per_level": [
+   55,
+   1983
+  ],
+  "raw_states_per_level": [
+   223,
+   7946
+  ],
+  "level_end_at": [
+   293
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 29,
+  "secs": 48.7
+ },
+ {
+  "game": "dc22-fdcac232",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   950,
+   6062
+  ],
+  "baselines": [
+   59,
+   102,
+   67,
+   98,
+   324,
+   578
+  ],
+  "score": 0.021063338156185697,
+  "actions": 10000,
+  "game_overs": 120,
+  "states_per_level": [
+   139,
+   675,
+   336
+  ],
+  "raw_states_per_level": [
+   792,
+   4014,
+   2168
+  ],
+  "level_end_at": [
+   950,
+   7012
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   6,
+   7
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 32,
+  "secs": 64.9
+ },
+ {
+  "game": "lf52-271a04aa",
+  "win_levels": 10,
+  "levels": 1,
+  "level_actions": [
+   86
+  ],
+  "baselines": [
+   32,
+   81,
+   60,
+   71,
+   205,
+   148,
+   244,
+   109,
+   164,
+   225
+  ],
+  "score": 0.25173312355573035,
+  "actions": 10000,
+  "game_overs": 1,
+  "states_per_level": [
+   14,
+   217
+  ],
+  "raw_states_per_level": [
+   86,
+   844
+  ],
+  "level_end_at": [
+   86
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   3
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 19,
+  "secs": 97.4
+ },
+ {
+  "game": "lp85-305b61c3",
+  "win_levels": 8,
+  "levels": 5,
+  "level_actions": [
+   15,
+   3544,
+   172,
+   634,
+   96
+  ],
+  "baselines": [
+   17,
+   38,
+   31,
+   16,
+   41,
+   60,
+   26,
+   159
+  ],
+  "score": 6.006193536362772,
+  "actions": 10000,
+  "game_overs": 132,
+  "states_per_level": [
+   7,
+   3295,
+   149,
+   90,
+   77,
+   4922
+  ],
+  "raw_states_per_level": [
+   7,
+   3334,
+   148,
+   601,
+   78,
+   5305
+  ],
+  "level_end_at": [
+   15,
+   3559,
+   3731,
+   4365,
+   4461
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 0,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 41,
+  "secs": 157.2
+ },
+ {
+  "game": "tu93-0768757b",
+  "win_levels": 9,
+  "levels": 2,
+  "level_actions": [
+   236,
+   17
+  ],
+  "baselines": [
+   19,
+   16,
+   34,
+   42,
+   123,
+   80,
+   14,
+   23,
+   111
+  ],
+  "score": 3.9513509156810067,
+  "actions": 10000,
+  "game_overs": 351,
+  "states_per_level": [
+   50,
+   10,
+   1854
+  ],
+  "raw_states_per_level": [
+   216,
+   17,
+   1914
+  ],
+  "level_end_at": [
+   236,
+   253
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 1,
+  "fallbacks": 8,
+  "surprise_per_level": [
+   0,
+   0,
+   3
+  ],
+  "level_switches": 1,
+  "voi_rechecks": 7,
+  "secs": 27.3
+ },
+ {
+  "game": "vc33-5430563c",
+  "win_levels": 7,
+  "levels": 3,
+  "level_actions": [
+   53,
+   225,
+   8581
+  ],
+  "baselines": [
+   7,
+   18,
+   44,
+   61,
+   131,
+   34,
+   152
+  ],
+  "score": 0.10829574035876302,
+  "actions": 10000,
+  "game_overs": 141,
+  "states_per_level": [
+   7,
+   49,
+   1058,
+   351
+  ],
+  "raw_states_per_level": [
+   52,
+   211,
+   7307,
+   1062
+  ],
+  "level_end_at": [
+   53,
+   278,
+   8859
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 5,
+  "secs": 31.3
+ }
+]

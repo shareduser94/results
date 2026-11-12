@@ -1,0 +1,312 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 1,
+  "level_actions": [
+   252
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.2268323555171628,
+  "actions": 10000,
+  "game_overs": 99,
+  "states_per_level": [
+   52,
+   1374
+  ],
+  "raw_states_per_level": [
+   195,
+   8064
+  ],
+  "level_end_at": [
+   252
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 27.2
+ },
+ {
+  "game": "dc22-fdcac232",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   1076,
+   7916
+  ],
+  "baselines": [
+   59,
+   102,
+   67,
+   98,
+   324,
+   578
+  ],
+  "score": 0.015898515158551098,
+  "actions": 10000,
+  "game_overs": 107,
+  "states_per_level": [
+   145,
+   780,
+   258
+  ],
+  "raw_states_per_level": [
+   824,
+   4903,
+   255
+  ],
+  "level_end_at": [
+   1076,
+   8992
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 1,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   6,
+   4
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 63.5
+ },
+ {
+  "game": "lf52-271a04aa",
+  "win_levels": 10,
+  "levels": 2,
+  "level_actions": [
+   105,
+   5615
+  ],
+  "baselines": [
+   32,
+   81,
+   60,
+   71,
+   205,
+   148,
+   244,
+   109,
+   164,
+   225
+  ],
+  "score": 0.16962912199201047,
+  "actions": 10000,
+  "game_overs": 5,
+  "states_per_level": [
+   23,
+   152,
+   389
+  ],
+  "raw_states_per_level": [
+   105,
+   465,
+   2118
+  ],
+  "level_end_at": [
+   105,
+   5720
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   3,
+   3
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 113.3
+ },
+ {
+  "game": "lp85-305b61c3",
+  "win_levels": 8,
+  "levels": 3,
+  "level_actions": [
+   27,
+   6140,
+   370
+  ],
+  "baselines": [
+   17,
+   38,
+   31,
+   16,
+   41,
+   60,
+   26,
+   159
+  ],
+  "score": 1.1599145649173759,
+  "actions": 10000,
+  "game_overs": 121,
+  "states_per_level": [
+   7,
+   5652,
+   131,
+   1117
+  ],
+  "raw_states_per_level": [
+   7,
+   5652,
+   131,
+   1117
+  ],
+  "level_end_at": [
+   27,
+   6167,
+   6537
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 0,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 118.4
+ },
+ {
+  "game": "tu93-0768757b",
+  "win_levels": 9,
+  "levels": 4,
+  "level_actions": [
+   429,
+   30,
+   752,
+   7525
+  ],
+  "baselines": [
+   19,
+   16,
+   34,
+   42,
+   123,
+   80,
+   14,
+   23,
+   111
+  ],
+  "score": 1.282461330768121,
+  "actions": 10000,
+  "game_overs": 507,
+  "states_per_level": [
+   72,
+   11,
+   94,
+   774,
+   251
+  ],
+  "raw_states_per_level": [
+   355,
+   29,
+   471,
+   724,
+   656
+  ],
+  "level_end_at": [
+   429,
+   459,
+   1211,
+   8736
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 2,
+  "unmask_events": 1,
+  "fallbacks": 30,
+  "surprise_per_level": [
+   0,
+   2,
+   2,
+   3,
+   4
+  ],
+  "level_switches": 1,
+  "voi_rechecks": 0,
+  "secs": 42.6
+ },
+ {
+  "game": "vc33-5430563c",
+  "win_levels": 7,
+  "levels": 2,
+  "level_actions": [
+   34,
+   237
+  ],
+  "baselines": [
+   7,
+   18,
+   44,
+   61,
+   131,
+   34,
+   152
+  ],
+  "score": 0.1925862713389832,
+  "actions": 10000,
+  "game_overs": 133,
+  "states_per_level": [
+   15,
+   36,
+   1170
+  ],
+  "raw_states_per_level": [
+   34,
+   227,
+   8157
+  ],
+  "level_end_at": [
+   34,
+   271
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "voi_rechecks": 0,
+  "secs": 44.0
+ }
+]

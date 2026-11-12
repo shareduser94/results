@@ -1,0 +1,323 @@
+[
+ {
+  "game": "cd82-fb555c5d",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   725,
+   1895
+  ],
+  "baselines": [
+   55,
+   8,
+   41,
+   21,
+   23,
+   23
+  ],
+  "score": 0.027574752032387826,
+  "actions": 10000,
+  "game_overs": 98,
+  "states_per_level": [
+   176,
+   372,
+   728
+  ],
+  "raw_states_per_level": [
+   585,
+   1582,
+   6475
+  ],
+  "level_end_at": [
+   725,
+   2620
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   3,
+   6
+  ],
+  "level_switches": 0,
+  "secs": 18.3
+ },
+ {
+  "game": "dc22-fdcac232",
+  "win_levels": 6,
+  "levels": 2,
+  "level_actions": [
+   930,
+   6828
+  ],
+  "baselines": [
+   59,
+   102,
+   67,
+   98,
+   324,
+   578
+  ],
+  "score": 0.02129076012725448,
+  "actions": 10000,
+  "game_overs": 123,
+  "states_per_level": [
+   136,
+   713,
+   256
+  ],
+  "raw_states_per_level": [
+   767,
+   4238,
+   1692
+  ],
+  "level_end_at": [
+   930,
+   7758
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   6,
+   7
+  ],
+  "level_switches": 0,
+  "secs": 44.6
+ },
+ {
+  "game": "lf52-271a04aa",
+  "win_levels": 10,
+  "levels": 2,
+  "level_actions": [
+   55,
+   7219
+  ],
+  "baselines": [
+   32,
+   81,
+   60,
+   71,
+   205,
+   148,
+   244,
+   109,
+   164,
+   225
+  ],
+  "score": 0.6159348927750103,
+  "actions": 10000,
+  "game_overs": 4,
+  "states_per_level": [
+   12,
+   153,
+   318
+  ],
+  "raw_states_per_level": [
+   55,
+   473,
+   1670
+  ],
+  "level_end_at": [
+   55,
+   7274
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   2,
+   9
+  ],
+  "level_switches": 0,
+  "secs": 58.5
+ },
+ {
+  "game": "lp85-305b61c3",
+  "win_levels": 8,
+  "levels": 5,
+  "level_actions": [
+   15,
+   2568,
+   813,
+   2741,
+   1960
+  ],
+  "baselines": [
+   17,
+   38,
+   31,
+   16,
+   41,
+   60,
+   26,
+   159
+  ],
+  "score": 3.2142330457958845,
+  "actions": 10000,
+  "game_overs": 116,
+  "states_per_level": [
+   7,
+   2387,
+   758,
+   373,
+   1798,
+   1777
+  ],
+  "raw_states_per_level": [
+   7,
+   2420,
+   764,
+   2641,
+   1861,
+   1841
+  ],
+  "level_end_at": [
+   15,
+   2583,
+   3396,
+   6137,
+   8097
+  ],
+  "mask_rows": [],
+  "mask_cols": [],
+  "mask_events": 0,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
+  ],
+  "level_switches": 0,
+  "secs": 70.5
+ },
+ {
+  "game": "tu93-0768757b",
+  "win_levels": 9,
+  "levels": 3,
+  "level_actions": [
+   9088,
+   42,
+   728
+  ],
+  "baselines": [
+   19,
+   16,
+   34,
+   42,
+   123,
+   80,
+   14,
+   23,
+   111
+  ],
+  "score": 0.6595497728274908,
+  "actions": 10000,
+  "game_overs": 215,
+  "states_per_level": [
+   2067,
+   14,
+   93,
+   36
+  ],
+  "raw_states_per_level": [
+   2034,
+   40,
+   465,
+   101
+  ],
+  "level_end_at": [
+   9088,
+   9130,
+   9858
+  ],
+  "mask_rows": [
+   63
+  ],
+  "mask_cols": [],
+  "mask_events": 2,
+  "unmask_events": 1,
+  "fallbacks": 14,
+  "surprise_per_level": [
+   0,
+   4,
+   1,
+   3
+  ],
+  "level_switches": 1,
+  "secs": 12.1
+ },
+ {
+  "game": "vc33-5430563c",
+  "win_levels": 7,
+  "levels": 3,
+  "level_actions": [
+   50,
+   317,
+   7038
+  ],
+  "baselines": [
+   7,
+   18,
+   44,
+   61,
+   131,
+   34,
+   152
+  ],
+  "score": 0.09344900395921077,
+  "actions": 10000,
+  "game_overs": 150,
+  "states_per_level": [
+   7,
+   50,
+   963,
+   635
+  ],
+  "raw_states_per_level": [
+   50,
+   292,
+   6065,
+   2338
+  ],
+  "level_end_at": [
+   50,
+   367,
+   7405
+  ],
+  "mask_rows": [
+   0
+  ],
+  "mask_cols": [],
+  "mask_events": 1,
+  "unmask_events": 0,
+  "fallbacks": 0,
+  "surprise_per_level": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "level_switches": 0,
+  "secs": 29.6
+ }
+]
